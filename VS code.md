@@ -6,7 +6,7 @@
 
 ## 1-1. [Ctrl]+[k],[t] 換主題顏色
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9ecda275-7a55-487e-8616-f3023f30bc8f/Untitled.png)
+![Untitled](https://i.imgur.com/jLDr8cD.png)
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ef8966cf-80d7-446f-853b-8f127bccb759/Untitled.png)
 
