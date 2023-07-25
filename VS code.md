@@ -8,7 +8,7 @@
 
 ![Untitled](https://i.imgur.com/jLDr8cD.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ef8966cf-80d7-446f-853b-8f127bccb759/Untitled.png)
+![Untitled](https://i.imgur.com/2F07ZLP.png)
 
 ## 1-2. 加上基本插件(外掛)
 
